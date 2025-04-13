@@ -16,7 +16,7 @@
 
 ## Tech Stack
 
- <img align="right" alt="PNG" src="./image/pic2.png" width="220" height="100%" />
+ <img align="right" alt="PNG" src="./image/pic2.PNG" width="220" height="100%" />
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
