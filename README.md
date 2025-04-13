@@ -1,7 +1,7 @@
 
 <p align="center">
   &nbsp;
-  <a href="https://github.com/suzuran0y"><img src="./image/pic1.png" width="640" alt = "显示不了图片，开一下VPN吧🛫"></a>
+  <a href="https://github.com/suzuran0y"><img src="./image/pic1.PNG" width="640" alt = "显示不了图片，开一下VPN吧🛫"></a>
 </p>
 
 ## About Me
