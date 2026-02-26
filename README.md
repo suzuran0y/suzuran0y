@@ -25,8 +25,11 @@
   </a>
 </p>
 
- <img align="right" alt="PNG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuran0y&layout=compact&langs_count=6" width="360" style="margin-right: 120px;"/>
-
+<img align="right"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzuran0y&theme=default"
+     width="360"
+     style="margin-right: 120px;"/>>
+     
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/>
   <a href="https://www.docker.com/">
@@ -60,18 +63,22 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/suzuran0y/house-price-regression-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=suzuran0y&repo=house-price-regression-prediction" />
+      <a href="https://github.com/suzuran0y/Live2D-LLM-Chat">
+        <img src="https://opengraph.githubassets.com/1/suzuran0y/Live2D-LLM-Chat" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/suzuran0y/Live2D-LLM-Chat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=suzuran0y&repo=Live2D-LLM-Chat" />
+      <a href="https://github.com/suzuran0y/Sentinel">
+        <img src="https://opengraph.githubassets.com/1/suzuran0y/Sentinel" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/suzuran0y/house-price-regression-prediction">
+        <img src="https://opengraph.githubassets.com/1/suzuran0y/house-price-regression-prediction" />
       </a>
     </td>
   </tr>
 </table>
-
 
 ## Contact Me
 
