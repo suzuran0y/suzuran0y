@@ -24,11 +24,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
-
-<img align="right"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzuran0y&theme=default"
-     width="360"
-     style="margin-right: 120px;"/>>
      
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/>
