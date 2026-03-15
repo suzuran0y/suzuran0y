@@ -65,8 +65,8 @@ and image recognition
   </tr>
 </table>
 
-<!-- https://count.getloli.com/ -->
-<img src="https://count.getloli.com/@suzuran0y?name=suzuran0y&theme=minecraft&padding=6&offset=50&align=top&scale=2&pixelated=1&darkmode=auto">
+<img src="https://count.getloli.com/@suzuran0y?name=suzuran0y&theme=minecraft&padding=6&offset=50&align=top&scale=2&pixelated=1&darkmode=auto&num=4721"> 
+<!--record 2026-3-15-16-46-->
 
 ## Contact Me
 
