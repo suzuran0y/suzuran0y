@@ -53,13 +53,13 @@ and image recognition
 <table>
   <tr>
     <td>
-      <a href="https://github.com/suzuran0y/Sentinel">
-        <img src="https://opengraph.githubassets.com/1/suzuran0y/Sentinel" />
+      <a href="https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring">
+        <img src="https://github-readme-stats-tau-eosin-56.vercel.app/api/pin/?username=suzuran0y&repo=CCTV-Smartphone-AI-Monitoring&theme=gruvbox&hide_border=true"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/suzuran0y/Live2D-LLM-Chat">
-        <img src="https://opengraph.githubassets.com/1/suzuran0y/Live2D-LLM-Chat" />
+        <img src="https://github-readme-stats-tau-eosin-56.vercel.app/api/pin/?username=suzuran0y&repo=Live2D-LLM-Chat&theme=gruvbox&hide_border=true"/>
       </a>
     </td>
   </tr>
