@@ -53,22 +53,20 @@ and image recognition
 <table>
   <tr>
     <td>
-      <a href="https://github.com/suzuran0y/Live2D-LLM-Chat">
-        <img src="https://opengraph.githubassets.com/1/suzuran0y/Live2D-LLM-Chat" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/suzuran0y/Sentinel">
         <img src="https://opengraph.githubassets.com/1/suzuran0y/Sentinel" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/suzuran0y/house-price-regression-prediction">
-        <img src="https://opengraph.githubassets.com/1/suzuran0y/house-price-regression-prediction" />
+      <a href="https://github.com/suzuran0y/Live2D-LLM-Chat">
+        <img src="https://opengraph.githubassets.com/1/suzuran0y/Live2D-LLM-Chat" />
       </a>
     </td>
   </tr>
 </table>
+
+<!-- https://count.getloli.com/ -->
+<img src="https://count.getloli.com/@suzuran0y?name=suzuran0y&theme=minecraft&padding=6&offset=50&align=top&scale=2&pixelated=1&darkmode=auto">
 
 ## Contact Me
 
