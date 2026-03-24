@@ -8,11 +8,11 @@
 
  <img align="right" alt="GIF" src="./image/gif1.gif" width="220" height="100%" />
 
-- 🔭 Currently studying in the Department of Mathematics at University College London
-- 🌱 Exploring topics in machine learning and quantitative economics
-- ⚡️ Deeply interested in large language models 
+- Currently studying in the Department of Mathematics at University College London
+- Exploring topics in machine learning and quantitative economics
+- Deeply interested in large language models 
 and image recognition
-- 💬 Always open to discuss ideas — feel free to reach out!
+- Always open to discuss ideas — feel free to reach out!
 
 ## Tech Stack
 
