@@ -46,7 +46,7 @@ and image recognition
 
  <img align="right" alt="PNG" src="./image/pic2.PNG" width="220" height="100%" />
  
- <img height="180em" src="https://github-readme-stats-tau-eosin-56.vercel.app/api/top-langs/?username=suzuran0y&layout=compact&theme=gruvbox&hide_border=true&langs_count=6"/>
+ <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=suzuran0y&layout=compact&theme=gruvbox&hide_border=true&langs_count=6"/>
 
 ## My Recent Works
 
@@ -54,12 +54,12 @@ and image recognition
   <tr>
     <td>
       <a href="https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring">
-        <img src="https://github-readme-stats-tau-eosin-56.vercel.app/api/pin/?username=suzuran0y&repo=CCTV-Smartphone-AI-Monitoring&theme=gruvbox&hide_border=true"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=suzuran0y&repo=CCTV-Smartphone-AI-Monitoring&theme=gruvbox&hide_border=true"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/suzuran0y/Live2D-LLM-Chat">
-        <img src="https://github-readme-stats-tau-eosin-56.vercel.app/api/pin/?username=suzuran0y&repo=Live2D-LLM-Chat&theme=gruvbox&hide_border=true"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=suzuran0y&repo=Live2D-LLM-Chat&theme=gruvbox&hide_border=true"/>
       </a>
     </td>
   </tr>
